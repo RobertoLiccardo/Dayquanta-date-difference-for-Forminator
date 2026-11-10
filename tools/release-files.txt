@@ -1,0 +1,18 @@
+# Runtime-only package. Add new production files here when needed.
+dayquanta-date-difference-for-forminator.php
+uninstall.php
+readme.txt
+LICENSE
+assets/css/admin-rule-editor.css
+assets/js/admin-rule-editor.js
+assets/js/dayquanta-date-difference-for-forminator.js
+src/Admin/Menu.php
+src/Admin/RuleEditor.php
+src/Configuration/RuleRepository.php
+src/Core/Plugin.php
+src/Domain/DateCalculator.php
+src/Domain/DateRule.php
+src/Frontend/Assets.php
+src/Integration/DateValueParser.php
+src/Integration/ForminatorFormInspector.php
+src/Integration/ForminatorSubmissionProcessor.php
